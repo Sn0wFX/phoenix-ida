@@ -1,8 +1,6 @@
 # phoenix-ida
-;-; ida spit this out dont blame me 
-
-DANK MEMZ
+decompiled version of the phoenix
 
 thx @cth103 kbye
 
-tihmstar plz no h8 
+tihmstar pls dont h8 ok
